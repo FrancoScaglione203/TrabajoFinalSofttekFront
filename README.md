@@ -1,6 +1,6 @@
 # TrabajoFinalSofttekFront
 
-Este proyecto es el FrontEnd de una billetera virtual. El siguiente link corresponde a la parte del back donde se explica mas en detalle la funcionalidad y como esta compuesto. El proyecto esta incompleto, solo funciona el login y se crearon views y controllers de cuentas. Tambien se establecio la conexcion con la API del back
+Este proyecto es el FrontEnd de una billetera virtual. El siguiente link corresponde a la parte del back donde se explica mas en detalle la funcionalidad y como esta compuesto. El proyecto del front esta incompleto, solo funciona el login y se crearon views y controllers de cuentas. Tambien se establecio la conexcion con la API del back
 
 https://github.com/FrancoScaglione203/TrabajoFinalSofttek/tree/master
 
